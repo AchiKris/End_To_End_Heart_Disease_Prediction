@@ -15,30 +15,10 @@ In this project, we try to build a machine learning model capable of predicting 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Import Libraries and Data: <br/>
-<img src="https://imgur.com/4kGCzSj.png" height="80%" width="80%" alt="Sales Price Prediction"/>
+Preparing Tools: <br/>
+<img src="https://imgur.com/3ePoGOt.png" height="80%" width="80%" alt="Heart Disease Prediction"/>
 <br />
-<br />
-Modelling:  <br/>
-<img src="https://imgur.com/8t2bVmF.png" height="80%" width="80%" alt="Sale Price Prediction"/>
-<br />
-<br />
-Splitting into Test and Validation Data: <br/>
-<img src="https://imgur.com/cErNCdc.png" height="80%" width="80%" alt="Sale Price Prediction"/>
-<br />
-<br />
-Building Evaluation Function:  <br/>
-<img src="https://imgur.com/7A5PN8m.png" height="80%" width="80%" alt="Sale Price Prediction"/>
-<br />
-<br />
-Testing Our Model:  <br/>
-<img src="https://imgur.com/KIpTQqC.png" height="80%" width="80%" alt="Sale Price Prediction"/>
-<br />
-<br />
-Make Predictions:  <br/>
-<img src="https://imgur.com/ZbLLnba.png" height="80%" width="80%" alt="Sale Price Prediction"/>
-<br />
-<br />
+
 </p>
 
 <!--
